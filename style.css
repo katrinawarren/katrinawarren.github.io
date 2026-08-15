@@ -1,3 +1,17 @@
+/* Colours */
+:root {
+    --c-lightLemon: #FDFAE2;
+    --c-luminousAmethyst: #FBE2F8;
+    --c-electricLavendar: #A838A6;
+    --c-softIndigo: #9FDEFF;
+    --c-intenseSky: #0D6477;
+    --c-intenseNavy: #050D29;
+
+    /*Main use variables for the colours*/
+    --colour-main-bg: var(--c-lightLemon);
+
+}
+
 *,
 *::before
 *::after {
