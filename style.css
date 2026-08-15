@@ -1,15 +1,18 @@
 /* Colours */
 :root {
-    --c-lightLemon: #FDFAE2;
-    --c-luminousAmethyst: #FBE2F8;
-    --c-electricLavendar: #A838A6;
-    --c-softIndigo: #9FDEFF;
-    --c-intenseSky: #0D6477;
-    --c-intenseNavy: #050D29;
+    --colour-lightLemon: hsl(53, 87%, 94%);
+    --colour-luminousAmethyst: hsl(307, 76%, 94%);
+    --colour-electricLavendar: hsl(301, 50%, 44%);
+    --colour-softIndigo: hsl(201, 100%, 81%);
+    --colour-intenseSky: hsl(191, 80%, 26%);
+    --colour-intenseNavy: hsl(227, 78%, 9%);
 
     /*Main use variables for the colours*/
-    --colour-main-bg: var(--c-lightLemon);
-
+    --c-main-bg: var(--c-lightLemon);
+    --c-dark-text: ;
+    --c-light-text: ;
+    --c-alt-bg: ;
+    
 }
 
 *,
